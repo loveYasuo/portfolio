@@ -1,6 +1,6 @@
 # portfolio
 
-//markdown 문법 알아보기
+//markdown 문법 알아보기!! : 1순위
   ###:글자 크게
   img.shield.io
 //깃허브 사진은 어떤걸 넣을까?
